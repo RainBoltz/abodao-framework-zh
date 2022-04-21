@@ -37,7 +37,7 @@
 ## 快速開始
 
 ```sh
-git clone https://github.com/aboDAO/abodao-framework-zh.git
+git clone https://github.com/fatfingererr/abodao-framework-zh
 cd abodao-framework-zh
 npm install
 ```
