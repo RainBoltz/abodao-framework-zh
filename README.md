@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/logo.png" alt="aboDAOLogo" style="width: 30%;">
+<img src="/logo.png" alt="aboDAOLogo.png" style="width: 30%;">
 <p>
 
 <h1 align="center">🔵🔵🔵 abo DAO Framework 🔵🔵🔵</h1>
